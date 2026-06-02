@@ -1,1 +1,5 @@
 unsloth
+trl
+peft
+transformers
+datasets
